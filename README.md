@@ -3,12 +3,12 @@
 
 **This Data Pack makes it harder to obtain Diamond And Netherite gear.**
 
-- Mining Diamond Ore will now drop 1 Echo Shard _**(regardless if it has Fortune on it)**_. To obatain a Diamond, place the Diamond in a furnace or a blasting furnce.
+- Mining Diamond Ore will now drop 1 Echo Shard _**(regardless if it has Fortune on it)**_. To obtain a Diamond, place the Echo Shard in a furnace or a blasting furnace.
 
-- The vanilla way to upgrade from Diamond to Netherite is disabled.
+- The vanilla method of upgrading from Diamond to Netherite has been disabled.
 
-- To obtain Netherite gear, you need to craft it like you would with Diamond gear. Also, instead of using sticks to craft the Netherite tools, you will need Blaze Rods.
+- To obtain Netherite gear, you must craft it in the same way as Diamond gear. However, instead of using sticks to craft Netherite tools, you will need Blaze Rods.
   
-- You can use a smithing table to transfer your enchants from your Diamond gear onto your Netherite gear. You will still need a Netherite Upgrade though. You can also transfer your enchants from your Iron gear onto your Diamond gear.
+- You can use a smithing table to transfer your enchantments from Diamond gear onto Netherite gear. You will still need a Netherite Upgrade, however. You can also transfer enchantments from Iron gear onto Diamond gear.
 
-- Added the ability to mine reinforced deepslate. The higher you efficiency is, the faster it will break.
+- Reinforced Deepslate can now be mined. The higher your Efficiency level, the faster it will break.
