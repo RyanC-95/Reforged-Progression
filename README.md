@@ -7,3 +7,5 @@
 
 - The vanilla way to upgrade from Diamond to Netherite is disabled. instead, you need to craft it like you would with Diamond gear. Instead using using sticks to craft the Netherite tools, you will need Blaze Rods.
 - You can use a smithing table to transfer your enchants from your Diamond gear onto your Netherite gear. You will still need a Netherite Upgrade though. You can also transfer your enchants from your Iron gear onto your Diamond gear.
+
+- Add the ability to mine reinforced deepslate. The higher you efficiency is, the faster it will break.
