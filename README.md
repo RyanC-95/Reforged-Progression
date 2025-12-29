@@ -11,4 +11,4 @@
   
 - You can use a smithing table to transfer your enchantments from Diamond gear onto Netherite gear. You will still need a Netherite Upgrade, however. You can also transfer enchantments from Iron gear onto Diamond gear.
 
-- Reinforced Deepslate can now be mined. The higher your Efficiency level, the faster it will break.
+- Reinforced Deepslate can now be mined. The higher your Efficiency level, the faster it will break. You need a Netherite Pickaxe with Silk Touch enchant, otherwise it will drop Deepslate
