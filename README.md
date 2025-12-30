@@ -1,4 +1,4 @@
-# EchidnaCraft-Datapack-1.21.10 (Reforged Progression)
+# Reforged Progression Datapack 1.21.10
 
 
 **This Data Pack makes it harder to obtain Diamond And Netherite gear.**
