@@ -15,3 +15,5 @@
 
 - Reinforced Deepslate can now be mined. The higher your Efficiency level, the faster it will break. You need a **Netherite Pickaxe** with **Silk Touch** enchant, otherwise it will drop nothing
 - Budding Amethyst can now be mined using a **Diamond Pickaxe** or a **Netherite Pickaxe** with **Silk Touch** enchant, otherwise it will drop 1 Amethyst Shard
+
+- Raw food can no longer be smelted in a Furnace
