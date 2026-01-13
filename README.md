@@ -20,11 +20,11 @@
 **Reinforced Deepslate**
 
 Reinforced Deepslate can now be mined in the world.
-Will only drop Reinforced Deepslate when mined with a Netherite Pickaxe that has Silk Touch.
+Will only drop Reinforced Deepslate when mined with a **Netherite Pickaxe** that has **Silk Touch**.
 Even if you have Silk Touch on other pickaxes, it will not work. Mining without the correct tool still breaks the block but yields nothing.
 
 **Budding Amethyst**
 
 Budding Amethyst can now be mined in the world.
-Will only drop Budding Amethyst when mined with a Diamond Pickaxe or Netherite Pickaxe that has Silk Touch.
+Will only drop Budding Amethyst when mined with a **Diamond Pickaxe** or **Netherite Pickaxe** that has **Silk Touch**.
 Even if you have Silk Touch on other pickaxes, it will not work. Mining without the correct tool still breaks the block but yields 1 Amethyst Shard instead.
