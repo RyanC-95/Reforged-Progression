@@ -1,7 +1,7 @@
 # Reforged Progression Datapack 1.21.10
 
 
-**This Data Pack makes it harder to obtain Diamond And Netherite gear.**
+**Overhauls progression, reworks Diamond & Netherite acquisition. Also enables Reinforced Deepslate and Budding Amethyst mining with strict tool requirements.**
 
 - Mining Diamond Ore will now drop 1 Echo Shard _**(regardless if it has Fortune on it)**_. To obtain a Diamond, place the Echo Shard in a furnace or a blasting furnace.
 
