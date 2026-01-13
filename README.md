@@ -5,7 +5,7 @@
 
 - Mining Diamond Ore will now drop 1 Echo Shard _**(regardless if it has Fortune on it)**_. To obtain a Diamond, place the Echo Shard in a furnace or a blasting furnace.
 
-- Mining Ancient Debris without Silk Touch will now drop 1 Netherite Scrap.
+- Mining Ancient Debris without Silk Touch will now drop 1 Netherite Scrap. _**(regardless if it has Fortune on it)**_
 
 - The vanilla method of upgrading from Diamond to Netherite has been disabled.
 
