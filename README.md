@@ -25,7 +25,7 @@
 
 - Raw food can no longer be smelted in a furnace.
 
-## New Blocks
+## New obtainable Blocks
 
 Reinforced Deepslate
 
