@@ -17,7 +17,7 @@
 
 ## Mining Adjustments
 
-- Iron Ore now always drops 1 Raw Iron, even when mined with Fortune, ensuring deliberate resource gathering.
+- Iron, Gold, and Copper Ore now always drop 1 Raw Ore each, even when mined with Fortune, ensuring deliberate resource gathering.
 
 ## Food
 
