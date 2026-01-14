@@ -31,6 +31,8 @@ Budding Amethyst
 
 ## Crafting Adjustments
 
+- Sticks now craft 2 at a time instead of 4, slowing early-game mass crafting.
+
 - Doors now craft 1 at a time, slowing early-game expansion.
 
 - Beacons now require 3 Reinforced Deepslate, a Nether Star, and Glass, reinforcing their status as a late-game construction project.
