@@ -36,3 +36,5 @@ Budding Amethyst
 - Doors now craft 1 at a time, slowing early-game expansion.
 
 - Beacons now require 3 Reinforced Deepslate, a Nether Star, and Glass, reinforcing their status as a late-game construction project.
+
+- Torches now craft 1 at a time, making lighting a more deliberate process.
