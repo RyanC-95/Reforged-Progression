@@ -3,28 +3,34 @@
 
 **Overhauls progression, reworks Diamond & Netherite acquisition. Also enables Reinforced Deepslate and Budding Amethyst mining with strict tool requirements.**
 
-- Mining Diamond Ore will now drop 1 Echo Shard _**(regardless if it has Fortune on it)**_. To obtain a Diamond, place the Echo Shard in a furnace or a blasting furnace.
+## Diamond & Netherite
 
-- Mining Ancient Debris without Silk Touch will now drop 1 Netherite Scrap. _**(regardless if it has Fortune on it)**_
+- Mining Diamond Ore now drops 1 Echo Shard (Fortune has no effect). Smelt the Echo Shard in a furnace or blasting furnace to obtain a Diamond.
+
+- Mining Ancient Debris without Silk Touch now drops 1 Netherite Scrap (Fortune has no effect).
 
 - The vanilla method of upgrading from Diamond to Netherite has been disabled.
 
-- To obtain Netherite gear, you must craft it in the same way as Diamond gear. However, instead of using sticks to craft Netherite tools, you will need Blaze Rods.
-  
-- You can use a smithing table to transfer your enchantments from Diamond gear onto Netherite gear. You can also transfer enchantments from Iron gear onto Diamond gear. You will still need a Netherite Upgrade.
+- Netherite gear must now be crafted like Diamond gear, but requires Blaze Rods instead of sticks for tools.
 
-- Raw food can no longer be smelted in a Furnace
+- Use a smithing table to transfer enchantments: from Diamond → Netherite, or Iron → Diamond. A Netherite Upgrade is still required.
 
-**You can now obtain the following blocks**
+## Food
 
-**Reinforced Deepslate**
+- Raw food can no longer be smelted in a furnace.
 
-Reinforced Deepslate can now be mined in the world.
-Will only drop Reinforced Deepslate when mined with a **Netherite Pickaxe** that has **Silk Touch**.
-Even if you have Silk Touch on other pickaxes, it will not work. Mining without the correct tool still breaks the block but yields nothing.
+## New Blocks
 
-**Budding Amethyst**
+Reinforced Deepslate
 
-Budding Amethyst can now be mined in the world.
-Will only drop Budding Amethyst when mined with a **Diamond Pickaxe** or **Netherite Pickaxe** that has **Silk Touch**.
-Even if you have Silk Touch on other pickaxes, it will not work. Mining without the correct tool still breaks the block but yields 1 Amethyst Shard instead.
+- Can now be mined in the world. Only drops when mined with a Netherite Pickaxe with Silk Touch. Mining with other pickaxes, even with Silk Touch, yields nothing.
+
+Budding Amethyst
+
+- Can now be mined in the world. Only drops when mined with a Diamond or Netherite Pickaxe with Silk Touch. Mining with the wrong tool still breaks the block but drops 1 Amethyst Shard.
+
+## Crafting Adjustments
+
+- Doors now craft 1 at a time, slowing early-game expansion.
+
+- Beacons now require 3 Reinforced Deepslate, a Nether Star, and Glass, reinforcing their status as a late-game construction project.
