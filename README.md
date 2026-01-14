@@ -1,7 +1,7 @@
 # Reforged Progression Datapack 1.21.10
 
 
-**Overhauls progression, reworks Diamond & Netherite acquisition. Also enables Reinforced Deepslate and Budding Amethyst mining with strict tool requirements.**
+**Overhauls progression and reworks Diamond and Netherite acquisition, introduces Reinforced Deepslate and Budding Amethyst mining with strict tool requirements, and adjusts crafting outputs — including sticks, doors, and Beacons — to make progression slower, more deliberate, and endgame construction more meaningful.**
 
 ## Diamond & Netherite
 
