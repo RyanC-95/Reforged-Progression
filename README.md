@@ -15,6 +15,10 @@
 
 - Use a smithing table to transfer enchantments: from Iron → Diamond, or Diamond → Netherite. A Netherite Upgrade is still required.
 
+## Mining Adjustments
+
+- Iron Ore now always drops 1 Raw Iron, even when mined with Fortune, ensuring deliberate resource gathering.
+
 ## Food
 
 - Raw food can no longer be smelted in a furnace.
