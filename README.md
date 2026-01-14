@@ -5,10 +5,6 @@
 
 ## Diamond & Netherite
 
-- Mining Diamond Ore now drops 1 Echo Shard (Fortune has no effect). Smelt the Echo Shard in a furnace or blasting furnace to obtain a Diamond.
-
-- Mining Ancient Debris without Silk Touch now drops 1 Netherite Scrap (Fortune has no effect).
-
 - The vanilla method of upgrading from Diamond to Netherite has been disabled.
 
 - Netherite gear must now be crafted like Diamond gear, but the tools requires Blaze Rods instead of sticks.
@@ -16,6 +12,10 @@
 - Use a smithing table to transfer enchantments: from Iron → Diamond, or Diamond → Netherite. A Netherite Upgrade is still required.
 
 ## Mining Adjustments
+
+- Mining Diamond Ore now drops 1 Echo Shard (Fortune has no effect). Smelt the Echo Shard in a furnace or blasting furnace to obtain a Diamond.
+
+- Mining Ancient Debris without Silk Touch now drops 1 Netherite Scrap (Fortune has no effect).
 
 - Iron, Gold, and Copper Ore now always drop 1 Raw Ore each, even when mined with Fortune, ensuring deliberate resource gathering.
 
