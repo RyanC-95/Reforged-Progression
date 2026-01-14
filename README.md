@@ -11,9 +11,9 @@
 
 - The vanilla method of upgrading from Diamond to Netherite has been disabled.
 
-- Netherite gear must now be crafted like Diamond gear, but requires Blaze Rods instead of sticks for tools.
+- Netherite tools must now be crafted like Diamond gear, but requires Blaze Rods instead of sticks for tools.
 
-- Use a smithing table to transfer enchantments: from Diamond → Netherite, or Iron → Diamond. A Netherite Upgrade is still required.
+- Use a smithing table to transfer enchantments: from Iron → Diamond, or Diamond → Netherite. A Netherite Upgrade is still required.
 
 ## Food
 
